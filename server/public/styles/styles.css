@@ -1,0 +1,11 @@
+body{
+    background-image: url('https://www.rom-game.fr/multimedia/news/190104_ethernalcastle.jpg');
+    background-color: #00aaaa;
+    color: #aa00aa;
+    background-repeat: no-repeat;
+    font-family: "Lucida Console", "Courier New", monospace;
+    
+}
+h1{
+    text-align: center;
+}
